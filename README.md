@@ -18,7 +18,7 @@
 ## 🔗・Required Links
 
 [NodeJS](https://nodejs.org/en/)<br>
-[Discord Channel](https://discord.gg/KnaNsd74Sp)
+[Discord Channel](https://discord.gg/wn6jy4Hyhg)
 
 ## 🎈・Usage
 
