@@ -22,7 +22,7 @@
 
 ## 🎈・Usage
 
-[Usage](https://youtu.be/e7sSftqWIXg)
+[Usage](https://youtu.be/jitK2foCVug)
 
 ## ⭐・Give A Star
 
